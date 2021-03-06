@@ -8,7 +8,22 @@ ZCZC W00  30 L01 General - Classic OS
 ZCZC W00  60 L08 Play with Classic OS websites
 ZCZC W00  15 L04 Look at other students' Pages for inspiration
 ZCZC W00  15 L23 Join Discord server and setup
-ZCZC W00 120 L06 Read Week 00 slide
+ZCZC W00  90 L06 Read Week 00 slide
 ZCZC W00  30 L05 GSGS related with Week 00
+ZCZC W00 100 L02 Monday morning Zoom session
 ZCZC W00  90 L22 Watch livestreams to relax
-ZCZC W00  10 L03 Update log for Week 00
+ZCZC W00  10 L10 Update log for Week 00
+
+ZCZC W01 100 L02 Monday morning Zoom session
+ZCZC W01  30 L01 Check SCELE and forums
+ZCZC W01  30 L03 Get template from cbkadal and modify files
+ZCZC W01  30 L04 Modify Github Pages and fix bugs
+ZCZC W01  90 L06 Read Week 01 slide
+ZCZC W01  30 L05 GSGS related with Week 01
+ZCZC W01  30 L00 Pop Quiz W01 Q01 - Q03
+ZCZC W01  30 L23 Pop Quiz W01 Q11 - Q15
+ZCZC W01 120 L21 Setup VirtualBox and Putty SSH
+ZCZC W01  30 L08 Trying Vim on Debian
+ZCZC W01 120 L11 Write Top 10 List of Week 01
+ZCZC W01  15 L09 Asistensi setup Linux
+ZCZC W01  10 L11 Update log for Week 01
