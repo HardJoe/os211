@@ -13,7 +13,6 @@ ZCZC W00  30 L05 GSGS related with Week 00
 ZCZC W00 100 L02 Monday morning Zoom session
 ZCZC W00  90 L22 Watch livestreams to relax
 ZCZC W00  10 L10 Update log for Week 00
-
 ZCZC W01 100 L02 Monday morning Zoom session
 ZCZC W01  30 L01 Check SCELE and forums
 ZCZC W01  30 L03 Get template from cbkadal and modify files
@@ -27,3 +26,23 @@ ZCZC W01  30 L08 Trying Vim on Debian
 ZCZC W01 120 L11 Write Top 10 List of Week 01
 ZCZC W01  15 L09 Asistensi setup Linux
 ZCZC W01  10 L11 Update log for Week 01
+ZCZC W02 100 L02 Monday afternoon Zoom session
+ZCZC W02  60 L01 Check SCELE and forums
+ZCZC W02 100 L02 Tuesday morning Zoom session
+ZCZC W02  10 L00 ROT13 Special
+ZCZC W02  30 L00 Pop Quiz W02 Q01 - Q03
+ZCZC W02 150 L06 Read (OSC10 chapter 16 + chapter 17)
+ZCZC W02  60 L08 Play more with VimTutor
+ZCZC W02 150 L06 Read Week 02 slides
+ZCZC W02  40 L06 Read Beginners Guide to Internet Safety & Privacy
+ZCZC W02 120 L07 Try Demo Week 02
+ZCZC W02  10 L12 Generate a GnuPG Key Pair
+ZCZC W02  10 L12 Import OS public key from ospubkey.txt
+ZCZC W02  10 L12 Export my public key to mypubkey.txt
+ZCZC W02  60 L12 Review neighbors and put 3 into myrank.txt
+ZCZC W02 200 L05 GSGS related with Week 02 materials
+ZCZC W02 210 L25 Learn C Beginner's Guide
+ZCZC W02 240 L12 Write Top 10 List of Week 02
+ZCZC W02 180 L22 Watch YouTube related with Week 02
+ZCZC W02  60 L23 Discord discussion
+ZCZC W02  30 L12 Update log for Week 02
