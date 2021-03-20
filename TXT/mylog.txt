@@ -46,3 +46,23 @@ ZCZC W02 240 L12 Write Top 10 List of Week 02
 ZCZC W02 180 L22 Watch YouTube related with Week 02
 ZCZC W02  60 L23 Discord discussion
 ZCZC W02  30 L12 Update log for Week 02
+ZCZC W03 100 L02 Monday afternoon Zoom session
+ZCZC W03  15 L01 Check SCELE and forums
+ZCZC W03 100 L02 Tuesday morning Zoom session
+ZCZC W03  26 L06 Read Week 03 slides
+ZCZC W03  15 L00 Pop Quiz W03 Q01
+ZCZC W03  30 L00 Pop Quiz W03 Q02
+ZCZC W03  10 L13 Check if bash aliases is up-to-date
+ZCZC W03  15 L13 Review neighbors' top 10 and update myrank.txt
+ZCZC W03 113 L13 Read OSC-10 chapter 13-15
+ZCZC W03  45 L07 Try Demo Week 03
+ZCZC W03  24 L05 GSGS related with Week 03
+ZCZC W03  30 L13 Download and decrypt W03.tar.bz2.asc
+ZCZC W03  20 L13 Tarball W03 folder into myW03.tar.bz2.asc
+ZCZC W03  10 L13 Update myscript.sh
+ZCZC W03  90 L13 Create Week 03 Top 10 list
+ZCZC W03  29 L08 Try making partitions
+ZCZC W03  50 L08 See Linux partitions in own Virtual Box
+ZCZC W03  30 L23 Linux FUSE discussions
+ZCZC W03  15 L22 Watch Linux filesystem videos
+ZCZC W03  15 L13 Update log for Week 03
