@@ -58,5 +58,3 @@ for II in W?? ; do
 				      gpg --verify $SHA.asc $SHA
 
 				      exit 0
-
-
