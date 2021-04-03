@@ -83,3 +83,23 @@ ZCZC W04  35 L05 GSGS related with Week 04
 ZCZC W04  61 L25 Play with C pointers
 ZCZC W04  24 L22 Watch videos related with Week 04
 ZCZC W04  10 L14 Update mylog.txt
+ZCZC W05 100 L02 Wednesday afternoon Zoom session
+ZCZC W05   5 L00 Pop Quiz W05 Q01
+ZCZC W05  30 L00 Pop Quiz W05 Q02
+ZCZC W05  15 L01 Check SCELE
+ZCZC W05  15 L06 Read Week 05 slides
+ZCZC W05  82 L15 Read OSC10 Chapter 10
+ZCZC W05  21 L15 Review W04 TOP 10 List and pick 3 neighbors
+ZCZC W05  20 L15 Create myW04.tar.bz2.asc
+ZCZC W05  15 L00 Help friend with logging into SSH os211.vlsm.org
+ZCZC W05  10 L07 Try TOP demo
+ZCZC W05  15 L07 Try other Week 05 demos
+ZCZC W05  10 L08 Try banner
+ZCZC W05  20 L21 Configure VirtualBox guest additions
+ZCZC W05  25 L15 See lowest RAM possible and edit taken screenshot
+ZCZC W05   5 L15 Update myscript.sh
+ZCZC W05  73 L15 Add W05 TOP 10 List
+ZCZC W05  43 L05 GSGS related with Week 05
+ZCZC W05  20 L23 Discuss about Week 05
+ZCZC W05  18 L22 Watch videos related with Week 05
+ZCZC W05   7 L15 Update mylog.txt
