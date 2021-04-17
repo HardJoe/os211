@@ -103,3 +103,19 @@ ZCZC W05  43 L05 GSGS related with Week 05
 ZCZC W05  20 L23 Discuss about Week 05
 ZCZC W05  18 L22 Watch videos related with Week 05
 ZCZC W05   7 L15 Update mylog.txt
+ZCZC W06 100 L02 Wednesday afternoon Zoom session
+ZCZC W06   5 L00 Pop Quiz W06 Q01
+ZCZC W06  30 L00 Pop Quiz W06 Q02 - Q03
+ZCZC W06  15 L01 Check SCELE
+ZCZC W06  19 L06 Read Week 06 slides
+ZCZC W06 120 L16 Read OSC10 Chapter 03 and 04
+ZCZC W06  30 L16 Review W05 TOP 10 List and pick 3 neighbors
+ZCZC W06  20 L16 Create myW06.tar.bz2.asc
+ZCZC W06  55 L07 Try Week 06 demo
+ZCZC W06   5 L16 Update myscript.sh
+ZCZC W06  90 L16 Add W06 TOP 10 List
+ZCZC W06  30 L05 GSGS related with Week 06
+ZCZC W06  20 L23 Discuss about Week 06
+ZCZC W06  40 L25 Try C multithreading
+ZCZC W06  20 L22 Watch videos related with Week 06
+ZCZC W06  10 L16 Update mylog.txt
