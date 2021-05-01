@@ -119,3 +119,22 @@ ZCZC W06  20 L23 Discuss about Week 06
 ZCZC W06  40 L25 Try C multithreading
 ZCZC W06  20 L22 Watch videos related with Week 06
 ZCZC W06  10 L16 Update mylog.txt
+ZCZC W07 100 L02 Monday afternoon Zoom session
+ZCZC W07 100 L02 Tuesday afternoon Zoom session
+ZCZC W07   6 L00 Pop Quiz W07 Q01
+ZCZC W07  30 L00 Pop Quiz W07 Q02 - Q03
+ZCZC W07  15 L01 Check SCELE
+ZCZC W07  10 L09 Demo pengecekan vbox
+ZCZC W07  30 L09 Bertanya tentang masalah WEEK7-REPORT2.txt
+ZCZC W07  25 L06 Read Week 07 slides
+ZCZC W07  35 L17 Read OSC10 Chapter 06 - 08
+ZCZC W07  20 L17 Review W05 TOP 10 List and pick 3 neighbors
+ZCZC W07  30 L17 Create myW07.tar.bz2.asc (failed)
+ZCZC W07  30 L17 Recreate myW07.tar.bz2.asc
+ZCZC W07  20 L07 Try Week 07 and Week 08 demo
+ZCZC W07  65 L17 Add W07 TOP 10 List
+ZCZC W07  20 L05 GSGS related with Week 07
+ZCZC W07  15 L23 Discuss about Week 07
+ZCZC W07  30 L25 Try C semaphore
+ZCZC W07  15 L22 Watch videos related with Week 07
+ZCZC W07  10 L17 Update mylog.txt
