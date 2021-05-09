@@ -138,3 +138,21 @@ ZCZC W07  15 L23 Discuss about Week 07
 ZCZC W07  30 L25 Try C semaphore
 ZCZC W07  15 L22 Watch videos related with Week 07
 ZCZC W07  10 L17 Update mylog.txt
+ZCZC W08 100 L02 Monday afternoon Zoom session
+ZCZC W08   8 L00 Pop Quiz W08 Q01
+ZCZC W08  30 L00 Pop Quiz W08 Q02 - Q05
+ZCZC W08  30 L00 Pop Quiz W08 SCELE
+ZCZC W08  10 L01 Check SCELE
+ZCZC W08  30 L06 Read W08 slides
+ZCZC W08  40 L18 Read OSC10 Chapter 5 slides
+ZCZC W08  30 L18 Review W07 TOP 10 List and pick 3 neighbors
+ZCZC W08  65 L18 Create W08 TOP 10 List
+ZCZC W08  11 L18 Make WEEK08-REPORT1.txt
+ZCZC W08  30 L18 Set a Debian Guest from an OVA File (LFS-00)
+ZCZC W08  34 L18 Update the system (LFS-01)
+ZCZC W08  25 L18 Checking LFS (LFS-02)
+ZCZC W08  32 L18 LFS-03
+ZCZC W08   6 L18 LFS-04
+ZCZC W08  10 L03 Setting up git in new OVA
+ZCZC W08  15 L05 GSGS related with Week 08
+ZCZC W08  10 L18 Update mylog.txt
