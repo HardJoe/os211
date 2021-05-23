@@ -156,3 +156,14 @@ ZCZC W08   6 L18 LFS-04
 ZCZC W08  10 L03 Setting up git in new OVA
 ZCZC W08  15 L05 GSGS related with Week 08
 ZCZC W08  10 L18 Update mylog.txt
+ZCZC W09 100 L02 Monday afternoon Zoom session
+ZCZC W09  20 L01 Check SCELE
+ZCZC W09  40 L06 Read W09 slides
+ZCZC W09  60 L19 Read OSC10 Chapter 11 slides
+ZCZC W09  30 L00 Pop Quiz W08 Q01 - Q04
+ZCZC W09  30 L19 Review W08 TOP 10 List and pick 3 neighbors
+ZCZC W09  80 L19 Create W09 TOP 10 List
+ZCZC W09  30 L05 GSGS related with Week 09
+ZCZC W09  20 L23 Discuss about Week 09
+ZCZC W09  30 L22 Watch videos related with Week 09
+ZCZC W09  10 L19 Update mylog.txt
